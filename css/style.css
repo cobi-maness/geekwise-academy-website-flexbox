@@ -48,11 +48,19 @@ a{
 }
 #span2{
     display:flex;
-    justify-content:center;
+    justify-conent:center;
+    flex-align:self-center;
     margin-top:2%;
     font-family:Arial;
     font-size:2em;
     color:white;
     border-bottom:1px solid white;
     width:60%;
+}
+#learn{
+    display:flex;
+    justify-content:start;
+    margin-left:25%;
+    border-right:1px solid white;
+    margin-right:2%;
 }

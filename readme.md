@@ -9,3 +9,11 @@
 
 ##TODO:
 layout main page using flexbox
+
+Scale it right
+
+finish bottom half
+
+fix span 2
+
+add last dividers
